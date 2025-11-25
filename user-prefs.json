@@ -1,0 +1,1164 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.armor.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.armor_toughness.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.attack_damage.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.attack_knockback.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.attack_speed.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.burning_time.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.explosion_knockback_resistance.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.fall_damage_multiplier.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.flying_speed.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.follow_range.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.gravity.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.jump_strength.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.knockback_resistance.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.luck.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.max_absorption.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.max_health.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.movement_efficiency.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.movement_speed.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.oxygen_bonus.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.safe_fall_distance.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.scale.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.step_height.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\generic.water_movement_efficiency.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\player.block_break_speed.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\player.block_interaction_range.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\player.entity_interaction_range.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\player.mining_efficiency.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\player.sneaking_speed.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\player.submerged_mining_speed.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\player.sweeping_damage_ratio.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\minecraft\\zombie.spawn_reinforcements.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\neoforge",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\neoforge\\nametag_distance.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\attributefix\\neoforge\\swim_speed.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\crash_assistant_localization_overrides",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\crash_assistant_localization_overrides\\README.md",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\config.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\modlist.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\problematic_mods_config.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\e4mc",
+        "isSelected": true
+      },
+      {
+        "path": "config\\e4mc\\e4mc.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fpsreducer",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fpsreducer\\fpsreducer-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fzzy_config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fzzy_config\\keybinds.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\areas.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\breakevents.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\effects.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\events.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\experience.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\leftclicks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\loot.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\phases.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\placeevents.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\rightclicks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\spawn.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\spawner.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol\\summonaid.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-blocks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-entities.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\jade.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\plugins.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\sort-order.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\blacklist.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-client.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-colors.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-debug.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-mod-id-format.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\recipe-category-sort-order.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\nerb",
+        "isSelected": true
+      },
+      {
+        "path": "config\\nerb\\compat",
+        "isSelected": true
+      },
+      {
+        "path": "config\\nerb\\compat\\emi.yaml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\nerb\\general.yaml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\NoChatReports",
+        "isSelected": true
+      },
+      {
+        "path": "config\\NoChatReports\\NCR-Client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\NoChatReports\\NCR-Common.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\NoChatReports\\NCR-Encryption.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\NoChatReports\\NCR-ServerPreferences.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\NoChatReports\\README.md",
+        "isSelected": true
+      },
+      {
+        "path": "config\\servercore",
+        "isSelected": true
+      },
+      {
+        "path": "config\\servercore\\config.yml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\servercore\\optimizations.yml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\servercountryflags",
+        "isSelected": true
+      },
+      {
+        "path": "config\\servercountryflags\\servercountryflags.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp\\about.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp-client",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp-client\\about.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\config.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\aiimprovements-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alltheleaks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\appleskin-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\balm-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\balm-common-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\balm-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bcc-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betteradvancements-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterpingdisplay-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterthirdperson-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\better_tooltips-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\chat_heads.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\citresewn.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\clean_tooltips-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\corpse-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dsbg-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamic_fps.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\emi.css",
+        "isSelected": true
+      },
+      {
+        "path": "config\\emi_loot_config.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\emi_ores-client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\enchdesc.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\entityculling.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fastbench.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fastquit.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ferritecore-mixin.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fml.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\foodeffecttooltips-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\incontrol-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\inventoryessentials-common-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\inventoryessentials-common-2.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\inventoryessentials-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jeed-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\leavemybarsalone-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\leavesbegone-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lithium.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lmft.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\maxhealthfix.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modelfix-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modernfix-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modernfix-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\MouseTweaks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\necronomicon.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-common-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\nerb.yaml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neruina.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\notenoughanimations.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\notenoughcrashes.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\observable.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\overflowingbars-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\overloadedarmorbar-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\packetfixer.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\placebo.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\raised.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\scholar-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\scholar-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\simple_snowy_fix_common.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\skinlayers.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\smithingtemplateviewer-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sodium-fingerprint.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sodium-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sodium-options.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sodiumdynamiclights-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sodiumextras-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\toastcontrol-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaerominimap-common.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaerominimap.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaerominimap_entities.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaeropatreon.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaeroworldmap-common.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaeroworldmap.txt",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\example_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\example_item.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\client_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\client_scripts\\client - nuke script.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\client.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\client.properties",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\common.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\common.properties",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\web_server.json",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\server - nuke script.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\startup - nuke script.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\0Pack2Reload-NeoForge-1.21.1-1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AI-Improvements-1.21-0.5.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alltheleaks-1.0.5+1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alternate_current-mc1.21-1.9.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-neoforge-mc1.21-3.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-13.0.8-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ArmorTrimItemFix-neoforge-1.21.1-1.2.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\attributefix-neoforge-1.21.1-21.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\balm-neoforge-1.21.1-21.0.54.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\bcc-21.1.3+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterPingDisplay-1.21.1-1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterThirdPerson-neoforge-1.9.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\better_tooltips-1.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\bookshelf-neoforge-1.21.1-21.1.69.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CerbonsAPI-NeoForge-1.21-1.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\chat_heads-0.14.0-neoforge-1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\citresewn-neoforge-1.21.1-0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cloth-config-15.0.140-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Controlling-neoforge-1.21.1-19.0.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\corpse-neoforge-1.21.1-1.1.13.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CrashAssistant-neoforge-1.20.6-1.21.4-1.10.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cyanide-neoforge-1.21.1-5.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\dsbg-1.0-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\e4mc_minecraft-neoforge-5.4.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi-1.1.22+1.21.1+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi_enchanting-0.1.2+1.21+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi_ores-1.2+1.21.1+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\enchdesc-neoforge-1.21.1-21.1.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\entityculling-neoforge-1.9.0-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FastFurnace-1.21.1-9.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Fastquit-3.0.1+1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FastWorkbench-1.21.1-9.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ferritecore-7.0.2-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\foodeffecttooltips+neoforge-1.21.1-1.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FpsReducer2-neoforge-1.21-2.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fzzy_config-0.7.3+1.21+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\incontrol-1.21-10.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\inventoryessentials-neoforge-1.21.1-21.1.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Jade-1.21.1-NeoForge-15.10.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jeed-1.21-2.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei-1.21.1-neoforge-19.21.2.313.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustEnoughBeacons-NeoForge-1.21-1.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kotlinforforge-5.10.0-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-neoforge-2101.7.1-build.181.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lithium-neoforge-0.15.0+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lmft-1.1.1+1.21.9-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lootjs-neoforge-1.21.1-3.4.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modelfix-1.21-1.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modernfix-neoforge-5.24.3+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\morejs-neoforge-1.21-0.14.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Necronomicon-NeoForge-1.6.0+1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\neobeefix-1.0.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Neruina-2.2.11-neoforge+1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\netherportalfix-neoforge-1.21.1-21.1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\notenoughanimations-neoforge-1.10.3.1-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\packetfixer-3.3.0-1.20.5-1.21.X-merged.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Placebo-1.21.1-9.9.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\prickle-neoforge-1.21.1-21.1.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\PuzzlesLib-v21.1.38-1.21.1-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\raised-neoforge-1.21.1-5.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rhino-2101.2.7-build.77.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Searchables-neoforge-1.21.1-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\separatedleaves-2.6.1-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\servercore-neoforge-1.5.5+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\servercountryflags-1.10.4-1.21.1-NEOFORGE.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\simple_snowy_fix-neoforge-2.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\skinlayers3d-neoforge-1.9.2-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\smithingtemplateviewer-1.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodium-neoforge-0.6.13+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumextras-neoforge-1.0.8-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\spark-1.10.124-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ToastControl-1.21.1-9.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\toofast-1.21.0-0.4.3.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Bibliophilia 1.16 (1.21.1).zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Modded Omelet_1_21_1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      }
+    ],
+    "recommendedRam": 8000,
+    "enableRecommendedRam": true
+  }
+}

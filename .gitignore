@@ -35,3 +35,4 @@ out/
 
 # Operating System specific files
 Thumbs.db
+.curseclient
