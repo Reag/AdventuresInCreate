@@ -1,0 +1,37 @@
+# Core Minecraft files and directories (generally not committed)
+saves/
+logs/
+mods/
+resourcepacks/
+shaderpacks/
+options.txt
+optionsof.txt
+servers.dat
+usercache.json
+debug.log
+latest.log
+
+# Launcher-specific files (e.g., CurseForge, MultiMC)
+instance.cfg
+modlist.html
+packwiz-install.toml
+packwiz-install.json
+packwiz-install.lock.json
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Java-related files
+*.jar
+*.class
+bin/
+build/
+out/
+
+# Operating System specific files
+Thumbs.db
