@@ -686,451 +686,139 @@
         "isSelected": true
       },
       {
-        "path": "kubejs",
+        "path": "datapacks",
         "isSelected": true
+      },
+      {
+        "path": "defaultconfigs",
+        "isSelected": false
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "downloads\\log.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs",
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\block\\example_block.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\example_item.png",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\client_scripts",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\client_scripts\\client - nuke script.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\client.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\client.properties",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\common.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\common.properties",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\config\\web_server.json",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\server_scripts\\server - nuke script.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts\\startup - nuke script.js",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": "kubejs\\README.txt",
-        "isSelected": true
+        "isSelected": false
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20251125-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20251125-2.json",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-11-25-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\latest.log",
+        "isSelected": false
       },
       {
         "path": "mods",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\0Pack2Reload-NeoForge-1.21.1-1.0.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\AI-Improvements-1.21-0.5.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\alltheleaks-1.0.5+1.21.1-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\alternate_current-mc1.21-1.9.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\appleskin-neoforge-mc1.21-3.0.7.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\architectury-13.0.8-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\ArmorTrimItemFix-neoforge-1.21.1-1.2.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\attributefix-neoforge-1.21.1-21.1.2.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\balm-neoforge-1.21.1-21.0.54.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\bcc-21.1.3+mc1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\BetterPingDisplay-1.21.1-1.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\BetterThirdPerson-neoforge-1.9.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\better_tooltips-1.0.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\bookshelf-neoforge-1.21.1-21.1.69.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\CerbonsAPI-NeoForge-1.21-1.3.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\chat_heads-0.14.0-neoforge-1.21.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\citresewn-neoforge-1.21.1-0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\cloth-config-15.0.140-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Controlling-neoforge-1.21.1-19.0.5.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\corpse-neoforge-1.21.1-1.1.13.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\CrashAssistant-neoforge-1.20.6-1.21.4-1.10.10.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\cyanide-neoforge-1.21.1-5.0.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\dsbg-1.0-1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\e4mc_minecraft-neoforge-5.4.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\emi-1.1.22+1.21.1+neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\EMIProfessions-neoforge-1.21.1-1.0.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\emi_enchanting-0.1.2+1.21+neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\emi_ores-1.2+1.21.1+neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\enchdesc-neoforge-1.21.1-21.1.9.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\entityculling-neoforge-1.9.0-mc1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\FastFurnace-1.21.1-9.0.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Fastquit-3.0.1+1.21.1neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\FastWorkbench-1.21.1-9.1.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\ferritecore-7.0.2-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\foodeffecttooltips+neoforge-1.21.1-1.4.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\FpsReducer2-neoforge-1.21-2.10.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\fzzy_config-0.7.3+1.21+neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\incontrol-1.21-10.1.4.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\inventoryessentials-neoforge-1.21.1-21.1.7.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Jade-1.21.1-NeoForge-15.10.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\jeed-1.21-2.3.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\jei-1.21.1-neoforge-19.21.2.313.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\JustEnoughBeacons-NeoForge-1.21-1.3.0.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\kotlinforforge-5.10.0-all.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\kubejs-neoforge-2101.7.1-build.181.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\lithium-neoforge-0.15.0+mc1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\lmft-1.1.1+1.21.9-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\lootjs-neoforge-1.21.1-3.4.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\maxhealthfix-neoforge-1.21.1-21.1.4.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\modelfix-1.21-1.10.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\modernfix-neoforge-5.24.3+mc1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\morejs-neoforge-1.21-0.14.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Necronomicon-NeoForge-1.6.0+1.21.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\neobeefix-1.0.8.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Neruina-2.2.11-neoforge+1.21.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\netherportalfix-neoforge-1.21.1-21.1.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\notenoughanimations-neoforge-1.10.3.1-mc1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\packetfixer-3.3.0-1.20.5-1.21.X-merged.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Placebo-1.21.1-9.9.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\prickle-neoforge-1.21.1-21.1.11.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\PuzzlesLib-v21.1.38-1.21.1-NeoForge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\raised-neoforge-1.21.1-5.0.2.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\rhino-2101.2.7-build.77.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\Searchables-neoforge-1.21.1-1.0.2.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\separatedleaves-2.6.1-neoforge-1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\servercore-neoforge-1.5.5+1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\servercountryflags-1.10.4-1.21.1-NEOFORGE.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\simple_snowy_fix-neoforge-2.1.4.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\skinlayers3d-neoforge-1.9.2-mc1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\smithingtemplateviewer-1.0.3.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\sodium-neoforge-0.6.13+mc1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\sodiumextras-neoforge-1.0.8-1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\spark-1.10.124-neoforge.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\ToastControl-1.21.1-9.0.1.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\toofast-1.21.0-0.4.3.5.jar",
         "isSelected": true
       },
       {
@@ -1138,23 +826,27 @@
         "isSelected": true
       },
       {
-        "path": "resourcepacks\\Bibliophilia 1.16 (1.21.1).zip",
+        "path": "shaderpacks",
         "isSelected": true
-      },
-      {
-        "path": "resourcepacks\\Modded Omelet_1_21_1.zip",
-        "isSelected": true
-      },
-      {
-        "path": "saves",
-        "isSelected": false
       },
       {
         "path": ".curseclient",
         "isSelected": false
       },
       {
+        "path": ".gitignore",
+        "isSelected": false
+      },
+      {
         "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "options.txt",
+        "isSelected": false
+      },
+      {
+        "path": "user-prefs.json",
         "isSelected": false
       }
     ],

@@ -36,3 +36,6 @@ out/
 # Operating System specific files
 Thumbs.db
 .curseclient
+downloads/log.json
+local/
+config/sodium-fingerprint.json
