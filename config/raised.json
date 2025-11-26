@@ -425,7 +425,7 @@
       },
       "direction": {
         "x": "NONE",
-        "y": "NONE"
+        "y": "UP"
       },
       "sync": "irons_spellbooks:spell_bar"
     },
@@ -480,7 +480,7 @@
       },
       "direction": {
         "x": "NONE",
-        "y": "UP"
+        "y": "NONE"
       },
       "sync": "minecraft:hotbar"
     },

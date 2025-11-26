@@ -133,23 +133,39 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:skeleton": true
-			"minecraft:chicken": true
-			"minecraft:drowned": true
 			"artifacts:mimic": true
-			"minecraft:squid": true
-			"minecraft:villager": true
-			"minecraft:fox": true
-			"minecraft:bat": true
-			"minecraft:wolf": true
-			"minecraft:spider": true
-			"minecraft:zombie": true
-			"minecraft:sheep": true
+			"minecraft:pillager": true
+			"alshanex_familiars:mage_pet": true
 			"mowziesmobs:ferrous_wroughtnaut": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:glow_squid": true
-			"friendsandfoes:illusioner": true
+			"minecraft:skeleton": true
+			"minecraft:creeper": true
+			"alshanex_familiars:hunter_pet": true
+			"minecraft:spider": true
+			"minecraft:vindicator": true
+			"minecraft:zombie": true
+			"minecraft:evoker": true
+			"friendsandfoes:rascal": true
+			"minecraft:cow": true
+			"minecraft:squid": true
+			"irons_spellbooks:cryomancer": true
+			"minecraft:fox": true
 			"minecraft:pig": true
+			"minecraft:glow_squid": true
+			"creeperoverhaul:cave_creeper": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:drowned": true
+			"minecraft:chicken": true
+			"alshanex_familiars:summoner_pet": true
+			"minecraft:rabbit": true
+			"minecraft:bogged": true
+			"minecraft:zombie_villager": true
+			"minecraft:witch": true
+			"minecraft:sheep": true
+			"minecraft:goat": true
+			"minecraft:villager": true
+			"friendsandfoes:illusioner": true
+			"minecraft:wolf": true
+			"minecraft:bat": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

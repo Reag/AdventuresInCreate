@@ -42,3 +42,9 @@ config/sodium-fingerprint.json
 usernamecache.json
 fancymenu_data/last_world.fmdata
 cherishedworlds-favorites.dat
+config/iris.properties
+config/modlistmemory.json
+config/fabric/indigo-renderer.properties
+ESM/soundsMuffled.dat
+ESM/Adventures In Create/anchors.dat
+config/packetfixer.properties
