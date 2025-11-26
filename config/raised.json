@@ -66,6 +66,380 @@
       },
       "sync": "appleskin:saturation_level"
     },
+    "artifacts:artifact_cooldowns": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "artifacts:artifact_cooldowns"
+    },
+    "artifacts:helium_flamingo_charge": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "artifacts:helium_flamingo_charge"
+    },
+    "barbequesdelight:block_info": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "barbequesdelight:block_info"
+    },
+    "biomeswevegone:textures/misc/palepumpkinblur.png": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "biomeswevegone:textures/misc/palepumpkinblur.png"
+    },
+    "create:blueprint": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:blueprint"
+    },
+    "create:goggle_info": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:goggle_info"
+    },
+    "create:linked_controller": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:linked_controller"
+    },
+    "create:remaining_air": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:remaining_air"
+    },
+    "create:schematic": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:schematic"
+    },
+    "create:toolbox": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:toolbox"
+    },
+    "create:track_placement": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:track_placement"
+    },
+    "create:train_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:train_hud"
+    },
+    "create:value_settings": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create:value_settings"
+    },
+    "create_pattern_schematics:pattern_schematic": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "create_pattern_schematics:pattern_schematic"
+    },
+    "eternal_starlight:carved_lunaris_cactus_fruit_blur": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:carved_lunaris_cactus_fruit_blur"
+    },
+    "eternal_starlight:current_crest": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:current_crest"
+    },
+    "eternal_starlight:dream_catcher": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:dream_catcher"
+    },
+    "eternal_starlight:ether_armor": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:ether_armor"
+    },
+    "eternal_starlight:ether_erosion": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:ether_erosion"
+    },
+    "eternal_starlight:orb_of_prophecy_use": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:orb_of_prophecy_use"
+    },
+    "eternal_starlight:portal": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:portal"
+    },
+    "eternal_starlight:spell_crosshair": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "eternal_starlight:spell_crosshair"
+    },
+    "farmersdelight:comfort": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "farmersdelight:comfort"
+    },
+    "farmersdelight:food_offset": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "farmersdelight:food_offset"
+    },
+    "farmersdelight:health_offset": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "farmersdelight:health_offset"
+    },
+    "farmersdelight:nourishment": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "farmersdelight:nourishment"
+    },
+    "immersive_aircraft:ia_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersive_aircraft:ia_overlay"
+    },
+    "irons_spellbooks:cast_bar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:cast_bar"
+    },
+    "irons_spellbooks:mana_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:mana_overlay"
+    },
+    "irons_spellbooks:recast_bar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:recast_bar"
+    },
+    "irons_spellbooks:screen_effects": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:screen_effects"
+    },
+    "irons_spellbooks:screen_tooltip": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:screen_tooltip"
+    },
+    "irons_spellbooks:spell_bar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:spell_bar"
+    },
+    "irons_spellbooks:spell_wheel": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:spell_wheel"
+    },
     "minecraft:bossbar": {
       "displacement": {
         "x": 0,
@@ -176,6 +550,17 @@
       },
       "sync": "minecraft:toasts"
     },
+    "naturescompass:natures_compass": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "naturescompass:natures_compass"
+    },
     "overflowingbars:toughness_level": {
       "displacement": {
         "x": 0,
@@ -186,6 +571,259 @@
         "y": "NONE"
       },
       "sync": "overflowingbars:toughness_level"
+    },
+    "patchouli:book_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "patchouli:book_overlay"
+    },
+    "patchouli:multiblock_progress": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "patchouli:multiblock_progress"
+    },
+    "refurbished_furniture:cutting_board_helper": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "refurbished_furniture:cutting_board_helper"
+    },
+    "refurbished_furniture:power_indicator": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "refurbished_furniture:power_indicator"
+    },
+    "relics:active_abilities": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "relics:active_abilities"
+    },
+    "relics:info_tile": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "relics:info_tile"
+    },
+    "relics:leafy_ring_hide": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "relics:leafy_ring_hide"
+    },
+    "relics:phantom_boot_bridge": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "relics:phantom_boot_bridge"
+    },
+    "reliquified_twilight_forest:goblin_vignette": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "reliquified_twilight_forest:goblin_vignette"
+    },
+    "reliquified_twilight_forest:rage_consumption_vignette": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "reliquified_twilight_forest:rage_consumption_vignette"
+    },
+    "reliquified_twilight_forest:twilight_indicator": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "reliquified_twilight_forest:twilight_indicator"
+    },
+    "sophisticatedstorage:paintbrush_info": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "sophisticatedstorage:paintbrush_info"
+    },
+    "sophisticatedstorage:storage_tool_info": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "sophisticatedstorage:storage_tool_info"
+    },
+    "supplementaries:cannon_charge": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:cannon_charge"
+    },
+    "supplementaries:selectable_container_item": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:selectable_container_item"
+    },
+    "supplementaries:slimed": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:slimed"
+    },
+    "travelerstitles:overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "travelerstitles:overlay"
+    },
+    "twilightforest:fortification_shield_count": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "twilightforest:fortification_shield_count"
+    },
+    "twilightforest:hostile_mount_hunger_bar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "twilightforest:hostile_mount_hunger_bar"
+    },
+    "twilightforest:ore_meter_stats": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "twilightforest:ore_meter_stats"
+    },
+    "twilightforest:portal_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "twilightforest:portal_overlay"
+    },
+    "twilightforest:quest_ram_indicator": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "twilightforest:quest_ram_indicator"
+    },
+    "yungscavebiomes:buffeted": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "yungscavebiomes:buffeted"
     }
   },
   "resource": {
