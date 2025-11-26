@@ -39,3 +39,6 @@ Thumbs.db
 downloads/log.json
 local/
 config/sodium-fingerprint.json
+usernamecache.json
+fancymenu_data/last_world.fmdata
+cherishedworlds-favorites.dat
