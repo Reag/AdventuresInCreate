@@ -1,0 +1,10 @@
+{
+  "waila:core": true,
+  "waila:vanilla": false,
+  "waila:harvest": false,
+  "waila:extra": false,
+  "waila:neo": false,
+  "balm:wthit": false,
+  "biomeswevegone:plugin": false,
+  "waystones:plugin": false
+}

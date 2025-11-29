@@ -22,9 +22,11 @@
   "enableEatDrinkAnimation": true,
   "enableRowBoatAnimation": true,
   "enableHorseAnimation": true,
+  "enableHorseLegAnimation": false,
   "dontHoldItemsInBed": true,
   "freezeArmsInBed": true,
   "rotationLock": "NONE",
+  "limitRotationLockToFP": true,
   "showLastUsedSword": false,
   "sheathSwords": [
     "minecraft:golden_sword",
@@ -36,6 +38,9 @@
   ],
   "enableCrawlingAnimation": true,
   "holdUpItemsMode": "CONFIG",
+  "holdUpTarget": "CAMERA",
+  "holdUpCameraOffset": 0.1,
+  "holdUpOnlySelf": false,
   "holdUpItemOffset": 0.0,
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
@@ -44,7 +49,10 @@
   "freezingAnimation": true,
   "huggingAnimation": false,
   "narutoRunning": false,
-  "enableInWorldBookRendering": false,
   "disableLegSmoothing": false,
-  "bowAnimation": "VANILLA"
+  "bowAnimation": "VANILLA",
+  "customBowRotationLock": false,
+  "clampCrossbowAnimations": false,
+  "burningAnimation": true,
+  "hideItemsForTheseBows": []
 }

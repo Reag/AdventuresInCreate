@@ -48,3 +48,6 @@ config/fabric/indigo-renderer.properties
 ESM/soundsMuffled.dat
 ESM/Adventures In Create/anchors.dat
 config/packetfixer.properties
+TrashSlotSaveState.json
+crash-reports/
+ESM/More Adventures In Create/anchors.dat

@@ -22,3 +22,5 @@ wandModeWithoutUpgrade = false
 replaceBlacklistBlocks = ["minecraft:bedrock", "minecraft:end_portal", "minecraft:command_block", "minecraft:barrier"]
 #List of block tags that cannot be replaced (e.g., '#minecraft:wither_immune')
 replaceBlacklistTags = ["#minecraft:wither_immune"]
+#Enable Chipped block auto-conversion upgrade functionality
+chippedConversionUpgradeEnabled = true

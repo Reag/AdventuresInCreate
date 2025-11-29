@@ -7,8 +7,8 @@
     "hideFromGUIs": true,
     "accessibilityModMemory": false,
     "enableAccessibilityPlugin": false,
-    "fluidMode": "ANY",
-    "perspectiveMode": "CAMERA",
+    "fluidMode": "NONE",
+    "perspectiveMode": "EYE",
     "extendedReach": 0.0,
     "debug": false,
     "displayBosses": true,
@@ -25,15 +25,15 @@
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
-    "overlaySquare": false,
+    "overlaySquare": true,
     "flipMainHand": false,
     "autoScaleThreshold": 0.4,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
-    "activeTheme": "jade_excalibur:excalibur",
+    "activeTheme": "jade:create",
     "overlayPosX": 0.5,
-    "overlayPosY": 1.0
+    "overlayPosY": 0.9851852
   },
   "formatting": {
     "itemModNameStyle": {
@@ -42,6 +42,7 @@
     }
   },
   "history": {
-    "themesHash": 134534286
+    "hintOverlayToggle": false,
+    "themesHash": -328442023
   }
 }

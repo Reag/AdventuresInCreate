@@ -55,8 +55,8 @@
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
+    "goggles.requires_goggles": false,
+    "goggles": true,
     "blaze_burner": true,
     "exact_block": true,
     "goggles.detailed": false,
@@ -85,6 +85,9 @@
   },
   "balm": {
     "jade": true
+  },
+  "apothic_enchanting": {
+    "ench": true
   },
   "functionalstorage": {
     "armory": true,
