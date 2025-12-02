@@ -440,6 +440,28 @@
       },
       "sync": "irons_spellbooks:spell_wheel"
     },
+    "little_big_redstone:floppy_disk_consume_items": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "little_big_redstone:floppy_disk_consume_items"
+    },
+    "little_big_redstone:sticky_note_view_contents": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "little_big_redstone:sticky_note_view_contents"
+    },
     "minecraft:bossbar": {
       "displacement": {
         "x": 0,

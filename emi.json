@@ -1,9 +1,394 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:create:redstone_contact",
+    "item:create:elevator_pulley",
+    "item:create:contraption_controls",
+    "item:create:controls",
+    "item:create:rotation_speed_controller",
+    "item:create:desk_bell",
+    "item:create:peculiar_bell",
+    "item:create:haunted_bell",
+    "item:create:brass_door",
+    "item:create:andesite_door",
+    "item:create:train_door",
+    "item:createdeco:andesite_door",
+    "item:createdeco:zinc_door",
+    "item:create:framed_glass_door",
+    "item:minecraft:red_sand",
+    "item:minecraft:granite",
+    {
+      "type": "item",
+      "id": "minecraft:diorite",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:netherite_ingot",
+      "amount": 2
+    },
+    "item:sophisticatedbackpacks:diamond_backpack{\"sophisticatedcore:number_of_inventory_slots\":108,\"sophisticatedcore:number_of_upgrade_slots\":5,\"sophisticatedcore:open_tab_id\":0,\"sophisticatedcore:render_info_tag\":{upgradeItems:[{components:{\"minecraft:container\":[{item:{count:1,id:\"minecraft:stone_bricks\"},slot:0},{item:{count:1,id:\"minecraft:stone_bricks\"},slot:3},{item:{count:1,id:\"minecraft:stone_bricks\"},slot:4},{item:{count:1,id:\"minecraft:stone_bricks\"},slot:6},{item:{count:1,id:\"minecraft:stone_bricks\"},slot:7},{item:{count:1,id:\"minecraft:stone_bricks\"},slot:8}],\"sophisticatedcore:refill_crafting_grid\":1b,\"sophisticatedcore:shift_click_into_storage\":0b},count:1,id:\"sophisticatedbackpacks:crafting_upgrade\"},{components:{\"sophisticatedcore:filter_attributes\":{filter_items:[{item:{count:1,id:\"farmersdelight:mushroom_rice\"},slot:0}],is_allow_list:1b,match_any_tag:1b}},count:1,id:\"sophisticatedbackpacks:advanced_feeding_upgrade\"},{components:{\"sophisticatedcore:filter_attributes\":{filter_by_storage:1b,match_any_tag:1b}},count:1,id:\"sophisticatedbackpacks:advanced_pickup_upgrade\"},{},{}]},\"sophisticatedcore:storage_uuid\":[I;1646496784,129845987,-1999754547,980571953]}",
+    "item:minecraft:netherite_upgrade_smithing_template",
+    {
+      "type": "item",
+      "id": "minecraft:ancient_debris",
+      "amount": 2
+    },
+    "item:mininggadgets:upgrade_efficiency_4",
+    "item:mininggadgets:upgrade_efficiency_3",
+    "item:mininggadgets:upgrade_size_1",
+    "item:minecraft:redstone_block",
+    "item:mininggadgets:upgrade_empty",
+    "item:mininggadgets:modificationtable",
+    "item:mininggadgets:upgrade_fortune_2",
+    "item:mininggadgets:upgrade_fortune_1",
+    "item:mininggadgets:upgrade_silk",
+    "item:mininggadgets:upgrade_efficiency_2",
+    "item:mininggadgets:upgrade_efficiency_1",
+    "item:mininggadgets:upgrade_battery_3",
+    "item:mininggadgets:upgrade_battery_2",
+    "item:mininggadgets:upgrade_battery_1",
+    "item:mininggadgets:upgrade_range_3",
+    "item:mininggadgets:upgrade_range_2",
+    "item:mininggadgets:upgrade_range_1",
+    "item:mininggadgets:upgrade_light_placer",
+    "item:minecraft:redstone_lamp",
+    "item:minecraft:ender_pearl",
+    "#item:c:ender_pearls",
+    "item:minecraft:diamond_block",
+    "item:mininggadgets:upgrade_size_2",
+    "item:mininggadgets:upgrade_size_3",
+    "item:mininggadgets:upgrade_magnet",
+    "item:mininggadgets:mininggadget",
+    "item:mininggadgets:mininggadget_simple",
+    "item:mininggadgets:mininggadget_fancy",
+    "item:createaddition:large_connector",
+    "#item:createaddition:large_connector_usable_rods",
+    "item:createaddition:connector",
+    "item:mowziesmobs:glowing_jelly",
+    "#item:c:slime_balls",
+    "item:createaddition:modular_accumulator",
+    "item:createaddition:capacitor",
+    "item:createaddition:rolling_mill",
+    "item:createaddition:barbed_wire",
+    {
+      "type": "item",
+      "id": "createaddition:electrum_rod",
+      "amount": 2
+    },
+    "item:createaddition:electrum_ingot",
+    "item:createaddition:electrum_sheet",
+    "item:createaddition:electrum_wire",
+    "item:createaddition:copper_wire",
+    {
+      "type": "jemi",
+      "uid": "createaddition:copper_spool"
+    },
+    "item:createaddition:tesla_coil",
+    "item:createaddition:copper_rod",
+    "item:createaddition:alternator",
+    "item:createaddition:spool",
+    "item:createaddition:cake_base_baked",
+    "item:createaddition:electric_motor",
+    "item:createaddition:electrum_spool",
+    {
+      "type": "jemi",
+      "uid": "create:iron_sheet"
+    },
+    {
+      "type": "jemi",
+      "uid": "createaddition:iron_rod"
+    },
+    "item:irons_spellbooks:keeper_spawn_egg",
+    "item:hazennstuff:raw_zenalite",
+    "item:hazennstuff:starkissed_zenalite",
+    "item:hazennstuff:zenalite_ingot",
+    {
+      "type": "item",
+      "id": "hazennstuff:solar_core",
+      "amount": 18
+    },
+    "item:irons_jewelry:jewelcrafting_station",
+    {
+      "type": "fluid",
+      "id": "create_deep_dark:molten_echo",
+      "amount": 250
+    },
+    "item:create_deep_dark:echo_cake",
+    {
+      "type": "item",
+      "id": "create:blaze_cake",
+      "amount": 5
+    },
+    "item:irons_spellbooks:decrepit_scythe",
+    "item:irons_spellbooks:timeless_slurry",
+    {
+      "type": "fluid",
+      "id": "irons_spellbooks:timeless_slurry",
+      "amount": 750
+    },
+    "item:create:cinder_flour",
+    {
+      "type": "item",
+      "id": "minecraft:netherrack",
+      "amount": 64
+    },
+    "item:create:crushing_wheel",
+    "item:create:mechanical_crafter",
+    "item:minecraft:crafting_table",
+    "item:create:deployer",
+    "item:create:brass_hand",
+    {
+      "type": "item",
+      "id": "twilightforest:canopy_wood",
+      "amount": 33
+    },
+    {
+      "type": "item",
+      "id": "barbequesdelight:tray",
+      "amount": 24
+    },
+    "item:minecraft:stripped_oak_log",
+    "#item:minecraft:logs",
+    "item:create:mechanical_saw",
+    "item:create:brass_casing",
+    {
+      "type": "item",
+      "id": "create:polished_rose_quartz",
+      "amount": 49
+    },
+    "item:create:electron_tube",
+    "item:create:blaze_cake_base",
+    {
+      "type": "item",
+      "id": "minecraft:netherite_scrap",
+      "amount": 9
+    },
+    "item:irons_spellbooks:pyromancer_helmet",
+    "#item:hazennstuff:armors/school/school_helmet",
+    "item:irons_spellbooks:netherite_mage_helmet",
+    "item:irons_spellbooks:cryomancer_helmet",
+    "item:irons_spellbooks:electromancer_helmet",
+    "item:irons_spellbooks:shadowwalker_helmet",
+    "item:irons_spellbooks:priest_helmet",
+    "item:irons_spellbooks:netherite_mage_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:irons_spellbooks:netherite_mage_leggings",
+    "item:irons_spellbooks:netherite_mage_boots",
+    "item:functionalstorage:netherite_upgrade",
+    "item:create_sa:netherite_jetpack_chestplate",
+    "item:create:netherite_backtank",
+    "item:simplyswords:netherite_scythe",
+    "item:cataclysm:netherite_ministrosity_bucket",
+    {
+      "type": "item",
+      "id": "create_dragons_plus:blaze_upgrade_smithing_template",
+      "amount": 2
+    },
+    "item:create_connected:overstress_clutch",
+    "item:create_connected:kinetic_bridge",
+    "item:create:clutch",
+    "item:createcasing:mldeg_shaft",
+    "item:createoreexcavation:sample_drill",
+    "item:createcasing:creative_casing",
+    "item:createcasing:chorium_ingot",
+    {
+      "type": "item",
+      "id": "minecraft:quartz",
+      "amount": 64
+    },
+    "item:hazennstuff:health_rune",
+    {
+      "type": "item",
+      "id": "hazennstuff:rose_quartz",
+      "amount": 2
+    },
+    "item:friendsandfoes:wildfire_crown",
     {
       "type": "item",
       "id": "friendsandfoes:wildfire_crown_fragment",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "create:copper_casing",
+      "amount": 5
+    },
+    {
+      "type": "fluid",
+      "id": "ratatouille:compost_residue_fluid",
+      "amount": 200
+    },
+    {
+      "type": "item",
+      "id": "ratatouille:compost_residue",
+      "amount": 4
+    },
+    "item:farmersdelight:organic_compost",
+    {
+      "type": "fluid",
+      "id": "sliceanddice:fertilizer",
+      "amount": 250
+    },
+    "item:create:spout",
+    "item:create:belt_connector",
+    {
+      "type": "item",
+      "id": "farmersdelight:straw",
+      "amount": 44
+    },
+    "item:functionalstorage:copper_upgrade",
+    "item:create:encased_fan",
+    "item:create:propeller",
+    "item:functionalstorage:dripping_upgrade",
+    "item:create:steam_engine",
+    "item:create:fluid_tank",
+    "item:createaddition:straw",
+    "item:create_connected:fluid_vessel",
+    "#item:c:barrels/wooden",
+    "item:create:fluid_pipe",
+    "item:minecraft:dripstone_block",
+    "item:immersive_aircraft:gyroscope_dials",
+    "item:minecraft:lever",
+    "item:minecraft:note_block",
+    "item:immersive_aircraft:gyroscope_hud",
+    "item:immersive_aircraft:gyroscope",
+    "item:simplyswords:diamond_rapier{\"minecraft:enchantments\":{levels:{\"betterarcheology:penetrating_strike\":1}}}",
+    "item:twilightforest:uncrafting_table",
+    "item:betterarcheology:iron_brush",
+    "item:eternal_starlight:deepsilver_brush",
+    "item:minecraft:brush",
+    "item:rusticdelight:bell_pepper_red",
+    "item:betterarcheology:diamond_brush",
+    "item:betterarcheology:netherite_brush",
+    "item:immersive_aircraft:airship{\"minecraft:container\":[{item:{count:1,id:\"immersive_aircraft:sturdy_pipes\"},slot:1},{item:{count:1,id:\"immersive_aircraft:industrial_gears\"},slot:2},{item:{count:1,id:\"immersive_aircraft:steel_boiler\"},slot:3},{item:{count:51,id:\"minecraft:coal\"},slot:6}]}",
+    {
+      "type": "item",
+      "id": "farmersdelight:raw_pasta",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:mushroom_rice",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "create:dough",
+      "amount": 64
+    },
+    "item:farmersdelight:rich_soil",
+    "item:chipped:massive_dirt_bricks",
+    "item:chipped:dirty_gravel",
+    "item:eternal_starlight:nightfall_dirt",
+    {
+      "type": "item",
+      "id": "minecraft:wheat",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:tomato",
+      "amount": 42
+    },
+    {
+      "type": "item",
+      "id": "rusticdelight:cotton_seeds",
+      "amount": 49
+    },
+    {
+      "type": "item",
+      "id": "minecraft:beetroot",
+      "amount": 33
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:cabbage",
+      "amount": 20
+    },
+    {
+      "type": "item",
+      "id": "minecraft:sugar_cane",
+      "amount": 7
+    },
+    {
+      "type": "item",
+      "id": "supplementaries:flax",
+      "amount": 5
+    },
+    "item:create:powered_toggle_latch",
+    "item:create:powered_latch",
+    "item:functionalstorage:framed_4",
+    "item:functionalstorage:configuration_tool",
+    "item:functionalstorage:linking_tool",
+    "item:functionalstorage:storage_controller",
+    "item:morered:latch",
+    "item:minecraft:observer",
+    "item:create:gearshift",
+    "item:create:encased_chain_drive",
+    "item:create:adjustable_chain_gearshift",
+    "item:create:chute",
+    "item:create:portable_storage_interface",
+    "item:create:gantry_shaft",
+    "item:create:gantry_carriage",
+    "item:create:super_glue",
+    "item:create_connected:empty_fan_catalyst",
+    "item:torchmaster:megatorch",
+    "item:torchmaster:dreadlamp",
+    "item:torchmaster:frozen_pearl",
+    "item:torchmaster:feral_flare_lantern",
+    "item:createcobblestone:mechanical_generator",
+    {
+      "type": "item",
+      "id": "create:brass_ingot",
+      "amount": 64
+    },
+    "item:create:linear_chassis",
+    "item:create:mechanical_harvester",
+    {
+      "type": "item",
+      "id": "create:zinc_ingot",
+      "amount": 14
+    },
+    "item:create_connected:encased_chain_cogwheel",
+    {
+      "type": "item",
+      "id": "create:depot",
+      "amount": 2
+    },
+    "item:create:wrench",
+    {
+      "type": "item",
+      "id": "create:industrial_iron_block",
+      "amount": 9
+    },
+    "item:minecraft:pointed_dripstone",
+    "item:create:cogwheel",
+    "item:sophisticatedbackpacks:advanced_feeding_upgrade",
+    "item:sophisticatedbackpacks:feeding_upgrade",
+    "item:minecraft:glistering_melon_slice",
+    "item:sophisticatedbackpacks:alchemy_upgrade",
+    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_4",
+    "item:sophisticatedbackpacks:stack_downgrade_tier_3",
+    "item:sophisticatedbackpacks:advanced_pickup_upgrade",
+    "item:sophisticatedbackpacks:pickup_upgrade",
+    "item:hazennstuff:starfury{\"irons_spellbooks:affinity_data\":{bonuses:{\"irons_spellbooks:starfall\":1}},\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:starfall\",index:0,level:6,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:1b},\"minecraft:damage\":92}",
+    "item:simplyswords:empowered_remnant",
+    "item:simplymore:the_vessel_breach{\"simplyswords:gem_power\":{has_nether_power:1b,has_runic_power:1b,nether_power:\"simplyswords:empty_power\",runic_power:\"simplyswords:empty_power\"}}",
+    {
+      "type": "item",
+      "id": "hazennstuff:silver_scraps",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:blaze_rod",
+      "amount": 12
+    },
+    "item:simplyswords:dormant_relic",
+    {
+      "type": "item",
+      "id": "simplyswords:runic_tablet",
       "amount": 3
     },
     {
@@ -11,6 +396,46 @@
       "id": "irons_spellbooks:hogskin",
       "amount": 3
     },
+    "item:waystones:waystone",
+    "item:minecraft:mossy_stone_bricks",
+    "item:waystones:mossy_waystone",
+    "item:minecraft:mossy_cobblestone",
+    "item:waystones:sandy_waystone",
+    "item:waystones:end_stone_waystone",
+    "item:waystones:blackstone_waystone",
+    "item:waystones:deepslate_waystone",
+    "item:waystones:warp_stone",
+    "item:waystones:orange_sharestone",
+    "item:waystones:black_sharestone",
+    "item:waystones:warp_dust",
+    "item:sophisticatedstorage:storage_tool",
+    "item:sophisticatedstorage:chest{\"sophisticatedstorage:wood_type\":\"oak\"}",
+    "item:sophisticatedstorage:controller",
+    "item:sophisticatedstorage:chest",
+    "#item:sophisticatedstorage:base_tier_wooden_storage",
+    "item:sophisticatedstorage:basic_to_iron_tier_upgrade",
+    "item:minecraft:comparator",
+    "item:sophisticatedstorage:iron_to_gold_tier_upgrade",
+    "item:irons_spellbooks:priest_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:sacred",
+    "item:hazennstuff:shattered",
+    "item:hazennstuff:refined",
+    "item:hazennstuff:calamitas_helmet",
+    "item:hazennstuff:alchemist_supreme_leggings",
+    "item:hazennstuff:alchemist_supreme_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:flesh_mass_leggings",
+    "item:hazennstuff:geckolib_arbitrium_robes_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:garments_of_the_first_flamebearer_chestplate{\"irons_spellbooks:affinity_data\":{bonuses:{\"irons_spellbooks:raise_hell\":2}},\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:iron431_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:geckolib_ascended_lemon_god_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:permafrost_prince_chestplate{\"irons_spellbooks:affinity_data\":{bonuses:{\"irons_spellbooks:frostbite\":1}},\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:permafrost_prince_helmet{\"irons_spellbooks:affinity_data\":{bonuses:{\"irons_spellbooks:frostbite\":1}}}",
+    "item:hazennstuff:shadow_scale_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:chlorophyte_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:hazennstuff:glowing_mushroom",
+    "item:irons_spellbooks:scroll_forge",
+    "item:irons_spellbooks:druidic_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
+    "item:irons_spellbooks:ice_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
     {
       "type": "item",
       "id": "hazennstuff:charred_bones",
@@ -21,13 +446,6 @@
       "id": "mynethersdelight:ghasta",
       "amount": 2
     },
-    {
-      "type": "item",
-      "id": "hazennstuff:solar_core",
-      "amount": 10
-    },
-    "item:hazennstuff:starkissed_zenalite",
-    "item:hazennstuff:zenalite_ingot",
     {
       "type": "item",
       "id": "mynethersdelight:strider_egg",
@@ -48,7 +466,6 @@
       "id": "minecraft:copper_ingot",
       "amount": 64
     },
-    "item:friendsandfoes:wildfire_crown",
     "item:irons_spellbooks:diamond_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
     "item:alshanex_familiars:sound_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
     "item:hazennstuff:sacred_robes_leggings",
@@ -95,7 +512,6 @@
       "id": "hazennstuff:overgrown_bone",
       "amount": 5
     },
-    "item:simplyswords:empowered_remnant",
     "item:simplymore:soul_foreseer{\"simplyswords:gem_power\":{has_nether_power:1b,has_runic_power:0b,nether_power:\"simplyswords:empty_power\",runic_power:\"simplyswords:empty_power\"}}",
     "item:irons_spellbooks:arcane_essence",
     "item:hazennstuff:melee_upgrade_orb",
@@ -105,15 +521,12 @@
       "id": "hazennstuff:dreadstone",
       "amount": 16
     },
-    "item:hazennstuff:refined",
     "item:hazennstuff:demonite_ingot",
     "item:hazennstuff:shadestone",
     "item:hazennstuff:crude_metal",
     "item:hazennstuff:steel_ingot",
     "item:hazennstuff:dreadsteel_ingot",
     "item:irons_spellbooks:wizard_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
-    "item:irons_spellbooks:netherite_mage_chestplate{\"irons_spellbooks:spell_container\":{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
-    "item:irons_spellbooks:netherite_mage_helmet",
     "item:irons_spellbooks:gold_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:8,mustEquip:1b,spellWheel:1b}}",
     {
       "type": "fluid",
@@ -139,9 +552,7 @@
     "item:irons_spellbooks:autoloader_crossbow",
     "item:irons_spellbooks:weapon_parts",
     "item:irons_spellbooks:amethyst_rapier{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:echoing_strikes\",index:0,level:5,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:1b}}",
-    "item:irons_spellbooks:ice_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
     "item:irons_spellbooks:villager_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
-    "item:irons_spellbooks:druidic_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
     "item:irons_spellbooks:dragonskin_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
     "item:irons_spellbooks:blaze_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
     "item:irons_spellbooks:rotten_spell_book{\"irons_spellbooks:spell_container\":{data:[],maxSpells:8,mustEquip:1b,spellWheel:1b}}",
@@ -154,21 +565,11 @@
       "id": "minecraft:red_mushroom",
       "amount": 24
     },
-    {
-      "type": "item",
-      "id": "minecraft:ancient_debris",
-      "amount": 2
-    },
     "item:irons_spellbooks:cinder_essence",
     {
       "type": "item",
       "id": "minecraft:nether_bricks",
       "amount": 8
-    },
-    {
-      "type": "item",
-      "id": "minecraft:pointed_dripstone",
-      "amount": 5
     },
     "item:simplyswords:thunderbrand",
     "item:simplyswords:slumbering_lichblade",
@@ -180,25 +581,17 @@
     "item:simplymore:tidebreaker",
     "item:simplymore:black_pearl",
     "item:simplymore:the_blood_harvester",
-    {
-      "type": "item",
-      "id": "hazennstuff:glowing_mushroom",
-      "amount": 4
-    },
     "item:simplymore:serpentine_valour{\"minecraft:damage\":3,\"simplyswords:gem_power\":{has_nether_power:1b,has_runic_power:0b,nether_power:\"simplyswords:empty_power\",runic_power:\"simplyswords:empty_power\"}}",
     {
       "type": "item",
       "id": "minecraft:obsidian",
       "amount": 5
     },
-    "item:hazennstuff:starfury{\"irons_spellbooks:affinity_data\":{bonuses:{\"irons_spellbooks:starfall\":1}},\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:starfall\",index:0,level:6,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:1b},\"minecraft:damage\":15}",
     "item:immersive_aircraft:steel_boiler",
     "item:immersive_aircraft:boiler",
     "item:immersive_aircraft:sturdy_pipes",
-    "item:immersive_aircraft:gyroscope",
     "item:immersive_aircraft:industrial_gears",
     "item:immersive_aircraft:nether_engine",
-    "item:immersive_aircraft:airship",
     "item:immersive_aircraft:engine",
     "item:minecraft:piston",
     "item:immersive_aircraft:sail",
@@ -209,18 +602,15 @@
       "id": "rusticdelight:cotton_boll",
       "amount": 17
     },
-    "item:sophisticatedbackpacks:pickup_upgrade",
     "item:sophisticatedbackpacks:magnet_upgrade",
     "item:sophisticatedbackpacks:deposit_upgrade",
     "item:sophisticatedbackpacks:filter_upgrade",
-    "item:sophisticatedbackpacks:feeding_upgrade",
     "item:sophisticatedbackpacks:crafting_upgrade",
     "item:sophisticatedbackpacks:upgrade_base",
     "item:farmersdelight:ratatouille",
     "item:farmersdelight:steak_and_potatoes",
     "item:farmersdelight:vegetable_noodles",
     "item:farmersdelight:roasted_mutton_chops",
-    "item:farmersdelight:mushroom_rice",
     "item:farmersdelight:bacon_and_eggs",
     "item:farmersdelight:pasta_with_meatballs",
     "item:farmersdelight:honey_glazed_ham_block",
@@ -237,21 +627,10 @@
       "amount": 54
     },
     "item:irons_spellbooks:wizard_helmet",
-    "item:hazennstuff:silver_scraps",
     {
       "type": "item",
       "id": "biomeswevegone:blueberries",
       "amount": 7
-    },
-    {
-      "type": "item",
-      "id": "farmersdelight:straw",
-      "amount": 8
-    },
-    {
-      "type": "item",
-      "id": "simplyswords:runic_tablet",
-      "amount": 2
     },
     "item:biomeswevegone:cooked_oddion_bulb",
     {
@@ -274,14 +653,11 @@
       "id": "minecraft:pumpkin",
       "amount": 8
     },
-    "item:minecraft:crafting_table",
     {
       "type": "item",
       "id": "create:andesite_alloy_block",
       "amount": 15
     },
-    "item:waystones:warp_stone",
-    "item:waystones:waystone",
     "item:minecraft:nether_brick",
     {
       "type": "item",
@@ -292,20 +668,12 @@
     "item:minecraft:soul_soil",
     "item:minecraft:crying_obsidian",
     "item:minecraft:diamond_pickaxe{\"minecraft:damage\":333}",
-    "item:minecraft:ender_pearl",
     {
       "type": "item",
       "id": "farmersdelight:rice",
       "amount": 2
     },
     "item:create:shaft",
-    "item:create:encased_fan",
-    "item:create:propeller",
-    {
-      "type": "item",
-      "id": "create:industrial_iron_block",
-      "amount": 7
-    },
     "item:createcasing:industrial_iron_encased_chain_drive",
     {
       "type": "item",
@@ -332,18 +700,7 @@
     "item:createcasing:refined_radiance_mixer",
     "item:createcasing:weathered_iron_mixer",
     "item:betterarcheology:villager_fossil_head",
-    "item:create:wrench",
-    {
-      "type": "item",
-      "id": "farmersdelight:raw_pasta",
-      "amount": 6
-    },
     "item:farmersdelight:wheat_dough",
-    {
-      "type": "item",
-      "id": "create:dough",
-      "amount": 6
-    },
     "item:ratatouille:salty_dough",
     "item:rusticdelight:fried_dough",
     "item:refurbished_furniture:dough",
@@ -355,27 +712,13 @@
     "item:create_connected:fan_smoking_catalyst",
     "item:create_connected:fan_splashing_catalyst",
     "item:create_connected:fan_blasting_catalyst",
-    "item:create_connected:empty_fan_catalyst",
     "item:create_connected:fan_ending_catalyst_dragon_head",
     "item:create_connected:fan_withering_catalyst",
     "item:create_connected:fan_seething_catalyst",
     "item:create_connected:fan_freezing_catalyst",
-    {
-      "type": "fluid",
-      "id": "ratatouille:compost_residue_fluid",
-      "amount": 200
-    },
-    "item:ratatouille:compost_residue",
-    "item:farmersdelight:organic_compost",
     "item:minecraft:carrot",
     "#item:c:foods/dough",
     "#item:c:foods/pasta",
-    {
-      "type": "item",
-      "id": "minecraft:wheat",
-      "amount": 39
-    },
-    "item:irons_spellbooks:scroll_forge",
     "item:irons_spellbooks:arcane_anvil",
     "item:immersive_aircraft:improved_landing_gear",
     "item:immersive_aircraft:enhanced_propeller",
@@ -385,7 +728,6 @@
     "item:immersive_aircraft:hull",
     "item:minecraft:furnace",
     "item:sophisticatedstorage:basic_to_gold_tier_upgrade",
-    "item:sophisticatedstorage:basic_to_iron_tier_upgrade",
     "item:sophisticatedstorage:basic_to_copper_tier_upgrade",
     {
       "type": "item",
@@ -404,7 +746,6 @@
     },
     "item:hazennstuff:steel_nugget",
     "item:immersive_aircraft:gyrodyne",
-    "item:farmersdelight:cabbage",
     "item:create:andesite_table_cloth",
     "item:farmersdelight:cooked_mutton_chops",
     {
@@ -423,6 +764,70 @@
     "item:minecraft:oak_log"
   ],
   "craft_history": [
+    "create:crafting/logistics/redstone_contact",
+    "create:crafting/kinetics/elevator_pulley",
+    "create:crafting/kinetics/contraption_controls",
+    "minecraft:netherite_upgrade_smithing_template",
+    "mininggadgets:upgrade_efficiency_5",
+    "mininggadgets:upgrade_efficiency_4",
+    "mininggadgets:upgrade_size_1",
+    "minecraft:redstone_block",
+    "mininggadgets:upgrade_empty",
+    "mininggadgets:upgrade_fortune_1",
+    "mininggadgets:upgrade_efficiency_3",
+    "mininggadgets:upgrade_efficiency_2",
+    "mininggadgets:upgrade_efficiency_1",
+    "mininggadgets:upgrade_battery_3",
+    "mininggadgets:upgrade_battery_2",
+    "mininggadgets:upgrade_battery_1",
+    "mininggadgets:upgrade_range_2",
+    "mininggadgets:upgrade_light_placer",
+    "minecraft:diamond_block",
+    "mininggadgets:upgrade_range_1",
+    "mininggadgets:upgrade_magnet",
+    "mininggadgets:modificationtable",
+    "mininggadgets:mininggadget",
+    "createaddition:crafting/large_connector",
+    "createaddition:crafting/modular_accumulator",
+    "createaddition:crafting/capacitor_1",
+    "create:crafting/kinetics/mechanical_crafter",
+    "minecraft:crafting_table",
+    "create:crafting/kinetics/deployer",
+    "create:crafting/kinetics/brass_hand",
+    "create_connected:crafting/kinetics/kinetic_bridge",
+    "create:crafting/materials/rose_quartz",
+    "create:crafting/kinetics/spout",
+    "farmersdelight:organic_compost_from_rotten_flesh",
+    "create:crafting/kinetics/encased_fan",
+    "create:crafting/kinetics/propeller",
+    "functionalstorage:dripping_upgrade",
+    "create:crafting/kinetics/steam_engine",
+    "createaddition:crafting/rolling_mill",
+    "create_connected:crafting/kinetics/fluid_vessel",
+    "immersive_aircraft:gyroscope_dials",
+    "betterarcheology:iron_brush",
+    "farmersdelight:organic_compost_from_tree_bark",
+    "functionalstorage:configuration_tool",
+    "functionalstorage:linking_tool",
+    "functionalstorage:storage_controller",
+    "create:crafting/logistics/powered_toggle_latch",
+    "minecraft:observer",
+    "create:crafting/kinetics/gearshift",
+    "create:crafting/kinetics/gantry_shaft",
+    "create:crafting/kinetics/gantry_carriage",
+    "create:crafting/kinetics/super_glue",
+    "create_connected:crafting/kinetics/empty_fan_catalyst",
+    "torchmaster:feral_flare_lantern",
+    "create:crafting/kinetics/mechanical_harvester",
+    "createcasing:crafting/mixer/industrial_iron",
+    "sophisticatedbackpacks:advanced_feeding_upgrade",
+    "sophisticatedbackpacks:feeding_upgrade",
+    "minecraft:glistering_melon_slice",
+    "sophisticatedbackpacks:advanced_pickup_upgrade",
+    "sophisticatedbackpacks:pickup_upgrade",
+    "waystones:waystone",
+    "waystones:warp_stone",
+    "sophisticatedstorage:storage_tool",
     "simplymore:great_katana/diamond_great_katana",
     "irons_spellbooks:magic_cloth",
     "immersive_aircraft:steel_boiler",
@@ -435,9 +840,6 @@
     "sophisticatedbackpacks:crafting_upgrade",
     "sophisticatedbackpacks:upgrade_base",
     "farmersdelight:cooking_pot",
-    "farmersdelight:organic_compost_from_tree_bark",
-    "createcasing:crafting/mixer/industrial_iron",
-    "farmersdelight:organic_compost_from_rotten_flesh",
     "minecraft:bread",
     "immersive_aircraft:improved_landing_gear",
     "immersive_aircraft:enhanced_propeller",
